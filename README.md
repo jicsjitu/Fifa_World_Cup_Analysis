@@ -1,4 +1,4 @@
-# 🏆⚽ Fifa World Cup Analysis
+# ⚽ Fifa World Cup Analysis 🏆
 ## 🔍 Overview
 This project involves analyzing historical FIFA World Cup data to uncover various insights and trends. By examining datasets related to World Cups, matches, and players, we aim to understand the evolution of the tournament, performance metrics of teams and players, and other fascinating aspects of the world’s most prestigious football event.
 
